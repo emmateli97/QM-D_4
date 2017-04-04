@@ -1,2 +1,2 @@
 # QM-D_4
-esercitazione per corso di interior design
+esercitazione per corso di interior design.
